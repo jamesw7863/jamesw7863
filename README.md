@@ -6,12 +6,12 @@ Previously, I interned as a Software Engineer at Brown & Brown Insurance and the
 
 ## About Me
 
-* 🎓 Computer Science major + Mathematics minor at UCF
-* 💼 Currently SWE Intern @ New York Life
-* 🧠 Interested in software engineering, AI/ML, data engineering, fintech, and computer vision
-* 🏀 I've played basketball my whole life, and pickup basketball is one of my favorite ways to de-stress
-* ♟️ I enjoy playing chess, and my favorite opening is the King's Indian Defense
-* 📚 I love history and learning how past events shaped the world we live in today
+* Computer Science major + Mathematics minor at UCF
+* Currently SWE Intern @ New York Life
+* Interested in software engineering, AI/ML, data engineering, fintech, and computer vision
+* I've played basketball my whole life, and pickup basketball is one of my favorite ways to de-stress
+* I enjoy playing chess, and my favorite opening is the King's Indian Defense
+* I love history and learning how past events shaped the world we live in today
 
 ## Connect With Me
 
