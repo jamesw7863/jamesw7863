@@ -66,3 +66,4 @@ Previously, I interned as a Software Engineer at Brown & Brown Insurance and the
 * **FirstStep**: Internship discovery platform helping students find relevant opportunities through email digests
 * **InvestEd**: AI-powered financial education platform built during Knight Hacks 2025
 * **MOVE**: Real-time computer vision movement game built with Next.js and MediaPipe Pose
+* **METIL**: Glovebox Digital Twin: Unity-based simulation of glovebox pressure and airflow dynamics
