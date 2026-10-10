@@ -67,4 +67,4 @@ Previously, I interned as a Software Engineer at Brown & Brown Insurance and the
 * **InvestEd**: AI-powered financial education platform built during Knight Hacks 2025
 * **MOVE**: Real-time computer vision movement game built with Next.js and MediaPipe Pose
 * **METIL**: Glovebox Digital Twin: Unity-based simulation of glovebox pressure and airflow dynamics
-* **Sign**: Accessibility prototype featuring live speech-to-text captions and an interactive 3D avatar using React, Three.js, and FastAPI
+* **Sign**: Speech-to-ASL translation platform that generates an animated 3D avatar performing sign language in real time using React, Three.js, and FastAPI
